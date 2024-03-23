@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-21T22:58:17 PDT" name="Default suite" finished-at="2024-03-21T22:58:17 PDT" duration-ms="298">
+    <groups>
+    </groups>
+    <test started-at="2024-03-21T22:58:17 PDT" name="Default test" finished-at="2024-03-21T22:58:17 PDT" duration-ms="298">
+      <class name="vws.RestAssuredAPITesting.ComplexJsonSerializationAndDeSerialization">
+        <test-method signature="buildPOJOUsingInputJSONAndCompareWithOutPutJSON()[pri:0, instance:vws.RestAssuredAPITesting.ComplexJsonSerializationAndDeSerialization@294425a7]" started-at="2024-03-21T22:58:17 PDT" name="buildPOJOUsingInputJSONAndCompareWithOutPutJSON" finished-at="2024-03-21T22:58:17 PDT" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildPOJOUsingInputJSONAndCompareWithOutPutJSON -->
+      </class> <!-- vws.RestAssuredAPITesting.ComplexJsonSerializationAndDeSerialization -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

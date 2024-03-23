@@ -1,0 +1,41 @@
+{
+  "cartInfo": {
+    "processingMTN": "newLine1",
+    "processStep": "NewRecommendedPlanSelection",
+    "intendType": "NSE",
+    "editPlanClick": false,
+    "addressLine1": "",
+    "city": "",
+    "state": "",
+    "zipCode": "",
+    "customerType": "N",
+    "mtnFlow": null,
+    "processAction": "addPlan"
+  },
+  "data": {
+    "lines": [
+      {
+        "path": "popular",
+        "action": "preset",
+        "mtn": "newLine1",
+        "plan": {
+          "id": "69185"
+        },
+        "addFeatures": [
+          {
+            "id": "2678",
+            "actionIndicator": "A",
+            "type": "SPO",
+            "quantity": 1,
+            "rank": "3"
+          }
+        ],
+        "removeFeatures": []
+      }
+    ],
+    "enableFcc": true,
+    "parentMtn": ""
+  },
+  "optPlanSku": true,
+  "isByou": true
+}
