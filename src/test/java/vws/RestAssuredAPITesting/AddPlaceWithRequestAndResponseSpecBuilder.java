@@ -14,6 +14,7 @@ import static io.restassured.RestAssured.given;
 import java.util.ArrayList;
 import java.util.List;
 import pojo.Location;
+import pojo.AddPlace;
 
 public class AddPlaceWithRequestAndResponseSpecBuilder {
 	
@@ -29,7 +30,7 @@ public class AddPlaceWithRequestAndResponseSpecBuilder {
 		loc.setLat(-38.383494);
 		loc.setLng(33.427362);
 		
-		pojo.AddPlace addPlace= new pojo.AddPlace();
+		AddPlace addPlace= new AddPlace();
 		addPlace.setAccuracy(60);
 		addPlace.setAddress("4465 Shore bird drive");
 		addPlace.setName("Raj House");
